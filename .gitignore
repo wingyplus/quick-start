@@ -1,0 +1,12 @@
+# Vendor dependencies
+vendor/
+
+# Composer file
+composer.lock
+composer.phar
+
+# Intellij project
+*.iml
+
+# Mac index file
+.DS_Store
